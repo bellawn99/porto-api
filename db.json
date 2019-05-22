@@ -3,22 +3,26 @@
     {
       "id": "1",
       "bidang": "desain",
-      "deskripsi": "ini desain"
+      "deskripsi": "Website Sosial Media",
+      "gambar": "https://image.freepik.com/free-vector/social-media-service-landing-page-layout-vector_53876-82246.jpg"
     },
     {
       "id": "2",
       "bidang": "backend",
-      "deskripsi": "ini backend"
+      "deskripsi": "Website Online Shopping",
+      "gambar": "https://image.freepik.com/free-vector/social-media-service-landing-page-layout-vector_53876-82249.jpg"
     },
     {
       "id": "3",
       "bidang": "frontend",
-      "deskripsi": "ini frontend"
+      "deskripsi": "Website Company Profile",
+      "gambar": "https://image.freepik.com/free-vector/social-media-service-landing-page-layout-vector_53876-62334.jpg"
     },
     {
       "id": "4",
       "bidang": "analis",
-      "deskripsi": "ini analis"
+      "deskripsi": "ini analis",
+      "gambar": "https://image.freepik.com/free-vector/social-media-service-landing-page-layout-vector_53876-62350.jpg"
     }
   ]
 }
